@@ -1,0 +1,12 @@
+[
+    {
+        "lineItem/UsageAccountId": "467262080079",
+        "lineItem/UsageType": "EU-DataTransfer-Out-Bytes",
+        "lineItem/UnblendedRate": 0.05
+    },
+    {
+        "lineItem/UsageAccountId": "467262080079",
+        "lineItem/UsageType": "AU-DataTransfer-Out-Bytes",
+        "lineItem/UnblendedRate": 0.033
+    }
+]
