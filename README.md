@@ -1,5 +1,8 @@
 # Assignment - API Enhancement
 
+## Output Screenshot
+![Screenshot](output_screenshot.jpg)
+
 ## Description
 
 Please see the target section down below and try to achieve the items as many as you can.
